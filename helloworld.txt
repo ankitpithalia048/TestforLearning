@@ -1,2 +1,3 @@
 console.log("Hello World");
 This is for module2
+This is text file
